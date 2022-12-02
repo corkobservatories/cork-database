@@ -1,0 +1,42 @@
+site_id,expedition,program,site,hole,instrumentation,location,environment,first arrival,longitude,latitude,water depth,total penetration (m),basement penetration (m),casing (m),comment
+504B,69,DSDP,504,B,,Costa Rica Rift - S flank,,1986-09-07 17:40:00,-83.7303,1.22685,3460.0,489.0,1836.0,90/276,"Wireline CORK 2001; Deepest DSDP/ODP hole; junk below 2000 mbsf; Hole  504B also visited Legs 70,83,92,111,137,140,148"
+843B,136,ODP,843,B,,SW of Oahu,,1991-03-14 09:22:00,-159.095,19.342,4407.0,318.0,NaN,30/244,OSN Pilot Experiment 1998; now open
+857D,139,ODP,857,D,,Middle Valley Juan de Fuca Ridge,,1996-09-10 00:48:00,-128.71085,48.44195,2421.0,936.0,465.0,48/573,"CORK 1991; ""basement"" = sill/sediment sequence."
+858G,139,ODP,858,G,,Middle Valley Juan de Fuca Ridge,,1996-09-04 18:02:00,-128.70885,48.456,2415.0,433.0,175.0,25/271,CORK 1991; new CORK 1996
+889C,146,ODP,889,C,,Vancouver margin,,1992-10-15 08:00:00,-126.8705,48.6985,1315.0,384.0,0.0,52/260,"CORK and 5-1/2"" liner from 270 - 327 mbsf1992"
+892B,146,ODP,892,B,,Oregon margin,,1992-11-09 00:00:00,-125.1181,44.6756,674.0,178.0,0.0,22/94,"CORK and 5-1/2"" liner from 93.4 - 145.6 mbsf 1992; logger removed  1995; hydrate experiment 1998"
+896A,148,ODP,896,A,,Costa Rica Rift - S flank,,NaT,-83.72329333,1.21698,3448.0,469.0,297.0,86/191,Wireline CORK 2001
+948D,156,ODP,948,D,,Barbados prism,,1994-05-09 16:45:00,-58.73173667,15.52430667,4938.0,538.0,0.0,43/476/535,CORK 1994; logger and string removed 1995
+949C,156,ODP,949,C,,Barbados prism,,1994-07-11 20:45:00,-58.7142,15.5369,5005.0,464.0,0.0,46/398/465,CORK and bridge plug1994
+1024C,168,ODP,1024,C,,East Flank Juan de Fuca Ridge,,1996-07-24 20:44:00,-128.75,47.9089,2612.0,176.0,24.0,39/166,CORK 1996; sensor recovered 1999; new logger 2000
+1025C,168,ODP,1025,C,,East Flank Juan de Fuca Ridge,,1996-07-14 01:29:00,-128.648,47.8875,2606.0,147.0,46.0,40/102,CORK 1996; logger replaced 2000
+1026B,168,ODP,1026,B,,East Flank Juan de Fuca Ridge,,1996-07-13 23:19:00,-127.759,47.7627,2658.0,295.0,48.0,40/249,CORK 1996; biosphere experiment 1997; sensors removed 1999
+1027C,168,ODP,1027,C,,East Flank Juan de Fuca Ridge,,1996-07-14 01:28:00,-127.731,47.7565,2656.0,632.0,57.0,39/578,CORK 1996; sensors recovered 1999; new logger 1999
+395A,174,ODP,395,A,,Mid-Atlantic Ridge - W flank,,NaT,-46.08166667,22.75583,4490.0,NaN,572.0,62/112,Installation of ODP CORK instrumented with long-term data logger.10 thermistors on cable downhole;  pressure gauges above and below seal.
+1107A,179,ODP,1107,A,,90 degree E Ridge,,1998-05-22 00:34:00,88.18083333,-17.02366667,1659.0,494.0,123.0,49/413,ION NERO site; seismometer planned 2004/2005
+1150D,186,ODP,1150,D,,Japan Trench,,1999-07-14 07:50:00,143.33157,39.18195333,2681.0,1140.0,0.0,55/534/1035,W Pacific ION seismometer/strain observatory 1999; 2nd deepest ODP  casing.
+1151B,186,ODP,1151,B,,Japan Trench,,1999-08-02 11:20:00,143.3335783,38.75207333,2182.0,1113.0,0.0,76/1068,W Pacific ION seismometer/strain observatory 1999; deepest ODP  casing.
+1179E,191,ODP,1179,E,,NW Pacific,,2000-08-13 05:38:00,159.9633,41.0795,5566.0,399.0,28.0,64/393,NW Pacific ION seismic observatory 2000
+1200C,195,ODP,1200,C,,Mariana forearc,,2016-12-13 06:24:00,146.0028617,13.78454,2932.0,140.0,0.0,24/107/203,CORK 2001
+1201E,195,ODP,1201,E,,Philippine Sea,,2001-04-15 05:41:00,135.0991517,19.29757,5710.0,580.0,68.0,39/527,W Pacific ION seismic observatory 2001
+808I,196,ODP,808,I,,Nankai Trough,,2001-05-22 03:59:00,134.945005,32.353575,4675.0,1058.0,NaN,157/927,Legs 131 196; ACORK 2001; top 37 m on seafloor but fully functioning; 3rd  deepest ODP casing
+1173B,196,ODP,1173,B,,Nankai Trough,,2001-05-12 21:46:00,135.0247417,32.24471833,4791.0,757.0,26.0,121/728,Legs 190 196; ACORK 2001; 5th deepest ODP casing; broken-off pipe above  bridge plug
+1224D,200,ODP,1224,D,,E Pacific,,2002-01-03 04:02:00,-141.9792083,27.88949833,4967.0,65.0,37.0,26/58,H2O ION site seismometer planned 2003
+1243A,203,ODP,1243,A,,Eastern Equatorial Pacific,,2002-06-18 10:41:00,-110.07633,5.300901667,3871.0,212.0,103.0,48/212,E Pacific ION seismometer to be planned 2003/2004/2005?
+1253A,205,ODP,1253,A,,Costa Rica Trench,,NaT,-86.19056167,9.64764,4376.0,600.0,87.0,44/413,CORK II 2002
+1254B,205,ODP,1254,B,,Costa Rica Trench,,2002-10-20 14:13:00,-86.17879,9.661978333,4176.0,278.0,0.0,20/199,"CORK II 4-1/2"" casing broke-off and junked hole.Retrieved CORK wellhead."
+1255A,205,ODP,1255,A,,Costa Rica Trench,,2002-10-27 00:40:00,-86.18582,9.654526667,4312.0,157.0,0.0,20/118,CORK II 2002
+1301A,301,IODP,1301,A,,Juan de Fuca Hydrogeology,,NaT,NaN,NaN,2656.0,370.0,108.0,NaN,Single level CORK II.
+1301B,301,IODP,1301,B,,Juan de Fuca Hydrogeology,,NaT,NaN,NaN,NaN,583.0,318.0,NaN,Multi-level CORK II.
+1315A,306,IODP,1315,A,,North Atlantic,,NaT,NaN,NaN,1272.0,179.0,NaN,NaN,CORK
+U1362A,327,IODP,U1362,A,,Juan de Fuca Hydrogeology,,2010-07-11 11:30:00,-127.7612,47.76104667,2661.0,528.0,NaN,NaN,"L-CORK RECC installed, cone base plate at 2672.0 mbrf. 16 in. shoe is  ~4-6 m above basement contact"
+U1362B,327,IODP,U1362,B,,Juan de Fuca Hydrogeology,,2010-07-10 08:15:00,-127.7621867,47.75832833,2661.0,359.0,NaN,NaN,L-CORK RECC
+U1364A,328,IODP,U1364,A,,Cascadia,,2010-09-10 06:00:00,-126.8721517,48.69993667,1318.0,336.0,NaN,NaN,Installed RECC & ACORK. Attached 20 jts of 10-3/4 csg to ACORK head.  Entire length of ACORK assembly was 329.1 m. Effective depth of assembly into  hole was 323.1 m. Installed packer at bottom of 10-3/4 in. csg;
+U1382A,336,IODP,U1382,A,,MAR,,2011-10-01 12:30:00,-46.08151833,22.755885,4494.0,210.0,120.0,NaN,"L-CORK RECC installed, cone base plate at 2672.0 mbrf. 16 in. shoe is  ~4-6 m above basement contact"
+U1383C,336,IODP,U1383,C,,MAR,,2011-10-19 17:45:00,-46.05277,22.80206833,4425.0,332.0,38.0,NaN,Basement contact at 38 mbsf. Installed deeper depth L-CORK.
+U1416A,341S,IODP,U1416,A,,Cascadia Margin,,2013-05-23 22:57:00,-126.847515,48.66971,1261.0,NaN,NaN,NaN,SHRIMPI
+U1416B,341S,IODP,U1416,B,,Cascadia Margin,,2013-05-25 14:20:00,-126.8474917,48.67005,1261.0,NaN,NaN,NaN,SHRIMPI
+U1497D,366,IODP,U1497,D,,Mariana Convergent Margin,,2017-01-15 03:40:00,147.221035,16.53758,2018.0,120.0,NaN,106,Hole readed for future deployment of CORK-Lite
+U1496C,366,IODP,U1496,C,,Mariana Convergent Margin,,2017-01-09 05:40:00,147.1016683,18.11011,1243.0,105.0,NaN,105,Hole readed for future deployment of CORK-Lite
+U1518G,375,IODP,U1518,G,,Pacific near New Zealand,,2018-03-19 12:10:00,178.8960283,-38.85918,2630.0,427.0,NaN,NaN,"Attempted to set an ACORK with an HRT base in Hole U1518G but when  attempting the reentry, unexpected heave caused the bit to hit the cone and  displace it ~5 m. Moved location became Hole 1518G. ACORK sucessfullydrilled in and CORK-II wellhead  installed into ACORK.OsmoSampler  was installed into CORK-II."
+U1519B,375,IODP,U1519,B,,Pacific near New Zealand,,2018-04-13 06:18:00,178.614425,-38.72738,285.0,NaN,NaN,NaN,"Drilled a 14-3/4"" hole to 285.1 mbsf and free-fall deployed a guide  base and FFF.ACORK sucessfully  washed to depthusing the mud  motor and underreamer. A FFF was deployed and landed on ACORK head. and  CORK-II wellhead installed into ACORK.An instrument string landed in the CORK-II."
